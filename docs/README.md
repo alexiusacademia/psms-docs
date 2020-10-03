@@ -4,7 +4,7 @@ home: true
 heroText: PSMS
 tagline: Project Status Monitoring System
 actionText: Get Started →
-actionLink: /guide/
+actionLink: /input/
 features:
 - title: Simplicity
   details: Minimal training is needed to get started with the system.
