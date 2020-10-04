@@ -24,6 +24,7 @@ module.exports = {
     sidebar: {
         '/input/': [
             '',
+            'system',
             'project',
             'contract'
         ]
