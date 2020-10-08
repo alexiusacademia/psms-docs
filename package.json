@@ -1,6 +1,6 @@
 {
   "name": "psms-docs",
-  "version": "0.1.0",
+  "version": "0.3.1",
   "description": "Documentation for PSMS",
   "main": "index.js",
   "scripts": {
