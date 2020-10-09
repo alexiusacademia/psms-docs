@@ -33,6 +33,8 @@ module.exports = {
           'contract',
           'project'
         ]
-    }
+    },
+
+    lastUpdated: 'Last Updated'
   },
 };
