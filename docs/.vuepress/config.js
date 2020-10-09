@@ -30,7 +30,8 @@ module.exports = {
         ],
         '/reporting/': [
           '',
-          'contract'
+          'contract',
+          'project'
         ]
     }
   },
