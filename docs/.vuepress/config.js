@@ -35,6 +35,7 @@ module.exports = {
         ]
     },
 
-    lastUpdated: 'Last Updated'
+    lastUpdated: 'Last Updated',
+    smoothScroll: true
   },
 };
