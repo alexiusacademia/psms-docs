@@ -27,6 +27,10 @@ module.exports = {
             'system',
             'project',
             'contract'
+        ],
+        '/reporting/': [
+          '',
+          'contract'
         ]
     }
   },
