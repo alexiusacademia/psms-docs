@@ -48,11 +48,13 @@ Below are the **System's** generated report about the project you have selected.
 ![projects-generated-report](/images/project/detailed_report/detailed_report.png)
 
 
-## Update Project
+>Note: Only the Admin and the Financial Encoder(role) has the capability to update the **Expenditure Source** and **Project Expenditure**.
+
+## Update Project (Admin, Financial Encoder)
 
 This topic is about updating project data.
 
-### Update Basic Information
+### Update Basic Information (Admin, Financial Encoder)
 
 If you wish to update the current project, click the pencil icon on the right corner of the **General Information**.
 
@@ -62,7 +64,7 @@ An **Update Project** pop up window will be seen just like the image below, you 
 
 ![projects-update-info](/images/project/general_info/project_update.png)
 
-### Delete Project (Admin)
+### Delete Project (Admin, Financial Encoder)
 
 To be able to delete the current project click the **DELETE** button that can be found below the **Remarks** caption in the **General Information** section.
 
@@ -72,19 +74,19 @@ A pop up window will be seen like the in image below to confirm your action, to 
 
 ![project-delete-button](/images/project/general_info/delete_project.png)
 
-### Expenditure Source
+### Expenditure Source (Admin, Financial Encoder)
 
 Expenditure source are financial capability of a project. This is where all it's fund sources will be listed. This also shows a table showing how is left for a fund source or how much is its balance remaining.
 
 ![expenditure-source](/images/project/expenditure_source/expenditure_source.png)
 
-### Add Expenditure Source
+### Add Expenditure Source (Admin, Financial Encoder)
 
 To add an **Expenditure Source** click the plus button icon beneath the **Project Expenditure** caption see the reference image above. After filling out the boxes hit the SAVE button.
 
 ![expenditure-source-add](/images/project/expenditure_source/expenditure_source_add.png)
 
-### Update Expenditure Source
+### Update Expenditure Source (Admin, Financial Encoder)
 
 To update an expenditure source select the record in the list, choose the **UPDATE** button in the action menu.
 
@@ -94,13 +96,13 @@ Modify/change the value, hit the **UPDATE** button to update the record.
 
 ![expenditure-source-update](/images/project/expenditure_source/expenditure_source_update.png)
 
-### Delete Expenditure Source
+### Delete Expenditure Source (Admin, Financial Encoder)
 
 To delete an existing project expenditure click the record you wish to remove in the record, see the reference image in the **Update Expenditure Source** action menu, a system confirmation will pop up hit the **DELETE** button to continue.
 
 ![expenditure-source-delete](/images/project/expenditure_source/expenditure_source_delete.png)
 
-### Add Requested Cash
+### Add Requested Cash (Admin, Financial Encoder)
 
 You can **Add Requested Cash** by clicking the plus icon below the expenditure source. See the reference image in the Expenditure Source.
 
@@ -108,19 +110,19 @@ You can **Add Requested Cash** by clicking the plus icon below the expenditure s
 
 ![expenditure-source-cash](/images/project/expenditure_source/source_requested_cash.png)
 
-### Project Expenditure
+### Project Expenditure (Admin, Financial Encoder)
 
 Project expenditure is listed in a table format showing an expenditure with the corresponding expenditure source, when was it obligated and when was it expensed for each row.
 
 ![project-expenditure](/images/project/project_expenditure/project_expenditure.png)
 
-### Add Project Expenditure
+### Add Project Expenditure (Admin, Financial Encoder)
 
 To add Project Expenditure click the plus button icon beneath the **Project Expenditure** caption see the reference image above. After filling out the boxes hit the SAVE button.
 
 ![project-expenditure-source](/images/project/project_expenditure/add_project_expenditure.png)
 
-### Update Project Expenditure
+### Update Project Expenditure (Admin, Financial Encoder)
 
 To update the **Project Expenditure** click the expenditure record you want to update, a menu action form will pop up, click the **UPDATE** button.
 
@@ -130,13 +132,13 @@ Change the details you want to modify in the given form, hit the **SAVE** button
 
 ![project-expenditure-source](/images/project/project_expenditure/project_expenditure_update.png)
 
-### Delete Project Expenditure
+### Delete Project Expenditure (Admin, Financial Encoder)
 
 To delete an existing project expenditure click the record you wish to remove in the record, see the reference image in the **Update Project Expenditure** action menu, a system confirmation will pop up hit the **DELETE** button to continue.
 
 ![project-expenditure-source](/images/project/project_expenditure/project_expenditure_delete.png)
 
-### View Contracts / By Admin Works
+### View Contracts / By Admin Works 
 
 Contracts for a given project is listed in table format under the **Contract** section. All works that are conducted by the agency with a contractor are listed here as well.
 
