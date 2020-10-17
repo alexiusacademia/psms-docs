@@ -26,7 +26,8 @@ module.exports = {
             '',
             'system',
             'project',
-            'contract'
+            'contract',
+            'user'
         ],
         '/reporting/': [
           '',
