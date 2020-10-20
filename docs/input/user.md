@@ -4,7 +4,13 @@ A user refers to an individual using the system under a certain account. It cann
 
 ## Viewing Users (Admin)
 
-> Guide here.
+Ths list of users in an account can only be viewed by user/s with *Admin* privelege.
+
+This can be access through
+
+> Settings > User Account
+
+This will display a tabulated list of all the users in an account.
 
 ## Adding a User (Admin)
 
