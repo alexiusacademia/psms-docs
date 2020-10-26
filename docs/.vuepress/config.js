@@ -26,13 +26,17 @@ module.exports = {
             '',
             'system',
             'project',
-            'contract'
+            'contract',
+            'user'
         ],
         '/reporting/': [
           '',
           'contract',
           'project'
         ]
-    }
+    },
+
+    lastUpdated: 'Last Updated',
+    smoothScroll: true
   },
 };
