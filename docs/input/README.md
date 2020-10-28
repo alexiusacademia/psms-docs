@@ -54,12 +54,12 @@ Has the full capability to add/revoke any permission to a user.
 
 #### Project Inspector
 
-Responsible for creating, updating contract that he/she is assigned.
+Responsible for creating, updating contract data that he/she is assigned.
 
 #### Accounting Officer
 
-Responsible for handling incoming and outgoing total financial funds, budget, and budget source to allocate in the project.
+Responsible for handling incoming and outgoing total financial funds, budget, and budget source to allocate in the project. Accounting officer are users that input data regarding financial aspect.
 
 #### Viewer
 
-Able to browse around projects, contracts and view related details to it.
+Able to browse around projects, contracts and view related details to it. Users with viewer role cannot edit or update any data to the system. They are only limited to viewing data and reports.
