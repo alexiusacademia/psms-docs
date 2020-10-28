@@ -8,6 +8,66 @@ For reporting, see the [Reporting](/reporting) tab.
 
 There are two available entry options for **PSMS**, either by the admin or through other users. User's capability for input depends on the user's role that can be set by the admin.
 
-## System Roles
+## User Roles
 
-> Discuss the different roles here.
+Enables/limit user to perform various task like adding, pulling, removing contract record(s), adding member(s), and generating report.
+
+To view role(s) that are granted to you, navigate to **User Profile** in the left side bar menu below the **Settings** caption, *see the picture below*.
+
+![settings-in-menu](/images/view/settings_in_menu.png)
+
+Here is an example of a user with role(s) of **Admin**, **Project Inspector** & **Accounting Personnel**. To add, grant or revoke user role(s) to a new or existing members navigate to **Settings** in the side bar menu tab.
+
+![user-profile](/images/settings/user_profile.png)
+
+> Note: you can verify the location you where at in the website by checking the tablink
+
+![account-profile](/images/settings/account/account_profile.png)
+
+After being navigated to account profile, scroll below and look for the caption **User Accounts** click the arrow down icon in the right side end of the bar. 
+
+![account-dropdown](/images/settings/account/account_dropdown.png)
+
+An expanded version of the **Users account** should look like this image below. Click the **ADD USER** button to add new user.
+
+![user-accounts](/images/settings/account/user_accounts.png)
+
+Fill the **Username** and **Password** field and specify which role to assign.
+
+![add-user-account](/images/settings/account/add_user_account.png)
+
+You can choose role(s) in the option, see the image below. After adding a role click the "SAVE" button.
+
+![add-user-account](/images/settings/account/add_user_account_option.png)
+
+You can update the user by clicking the record in the **User Accounts** list.
+
+![update-user-account-link](/images/settings/account/update_user_account_link.png)
+
+Below are role(s) that can be revoke or add. You can update the user and alter any records except the password whom she acquired before.
+
+![update-user-account-field](/images/settings/account/update_user_account_field.png)
+
+#### Admin
+
+Has the full capability to add/revoke any permission to a user.
+
+#### Project Inspector
+
+Responsible for creating, updating contract that he/she is assigned.
+
+#### Accounting Officer
+
+Responsible for handling incoming and outgoing total financial funds, budget, and budget source to allocate in the project.
+
+#### Financial Encoder
+
+Responsible for handling/inputting financial related information and adding record(s).
+
+#### Engineering Personnel
+
+Responsible for deploying and managing manpower personnel to be or assigned to the project(s).
+
+#### Viewer
+
+Able to browse around projects, contracts and view related details to it.
