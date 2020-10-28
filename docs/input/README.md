@@ -60,14 +60,6 @@ Responsible for creating, updating contract that he/she is assigned.
 
 Responsible for handling incoming and outgoing total financial funds, budget, and budget source to allocate in the project.
 
-#### Financial Encoder
-
-Responsible for handling/inputting financial related information and adding record(s).
-
-#### Engineering Personnel
-
-Responsible for deploying and managing manpower personnel to be or assigned to the project(s).
-
 #### Viewer
 
 Able to browse around projects, contracts and view related details to it.
