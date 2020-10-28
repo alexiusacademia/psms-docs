@@ -48,30 +48,26 @@ Below are role(s) that can be revoke or add. You can update the user and alter a
 
 ![update-user-account-field](/images/settings/account/update_user_account_field.png)
 
-#### Accounting Holder (admin)
+#### Admin
 
-Input financial data, Fund Source, Expenditure Source 
+Has the full capability to add/revoke any permission to a user.
 
 #### Project Inspector
 
-Able to view contracts, projects
+Responsible for creating, updating contract that he/she is assigned.
 
 #### Accounting Officer
 
+Responsible for handling incoming and outgoing total financial funds, budget, and budget source to allocate in the project.
+
 #### Financial Encoder
+
+Responsible for handling/inputting financial related information and adding record(s).
 
 #### Engineering Personnel
 
+Responsible for deploying and managing manpower personnel to be or assigned to the project(s).
+
 #### Viewer
 
-Able to view allocated budget, generate report, and total remaining funds.
-
-> Discuss the different roles here.
-
-admin, project in charge, financial encoder, viewer
-
-financial encoder
-
->inputs ng mga financial related informations
-
-project in charge, pra s pagcreate ng mga contract,  update ng contract kung sila yung naka assign doon etc
+Able to browse around projects, contracts and view related details to it.
