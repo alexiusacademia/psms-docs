@@ -47,19 +47,3 @@ You can update the user by clicking the record in the **User Accounts** list.
 Below are role(s) that can be revoke or add. You can update the user and alter any records except the password whom she acquired before.
 
 ![update-user-account-field](/images/settings/account/update_user_account_field.png)
-
-#### Admin
-
-Has the full capability to add/revoke any permission to a user.
-
-#### Project Inspector
-
-Responsible for creating, updating contract data that he/she is assigned.
-
-#### Accounting Officer
-
-Responsible for handling incoming and outgoing total financial funds, budget, and budget source to allocate in the project. Accounting officer are users that input data regarding financial aspect.
-
-#### Viewer
-
-Able to browse around projects, contracts and view related details to it. Users with viewer role cannot edit or update any data to the system. They are only limited to viewing data and reports.
