@@ -2,6 +2,40 @@
 
 A user refers to an individual using the system under a certain account. It cannot be used in a different account.
 
+## User Roles
+
+Users of an account has different roles. The roles that the user has determines their access range in the system. The following roles are available in the PSMS:
+
+- **Admin**
+
+    Admin is the highest role in a PSMS account. It can generally control and view all options available.
+
+- **Project Inspector**
+
+    Project Inspector has the following access capabilities on the system:
+
+    - Create contract
+    - Update contract
+    - Encode contracts accomplishments
+    - View and generate reports
+
+- **Accounting Officer**
+
+    Accounting Officer has the following access capabilities on the system:
+
+    - View and generate reports
+    - Encode expenditure sources of a project
+    - Encode project expenditures of a project
+    - Encode requested cash for a project
+
+- **Viewer**
+
+    Viewers can only view and generate reports and data. They do not have access to any updating of data on the system.
+
+A user may have one or more roles with the following exceptions:
+1. A _viewer_ can only have one role.
+2. An _admin_ cannot have a _viewer_ role as this defeats the main role.
+
 ## Viewing Users (Admin)
 
 Ths list of users in an account can only be viewed by user/s with *Admin* privelege.
