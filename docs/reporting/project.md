@@ -16,15 +16,15 @@ There are two option in the list **Project Accomplishment Breakdown** and **Acco
 
 Customize which report to generate by changing the **As Of** and **Implementation Year** date, click the **GENERATE** button to proceed.
 
-![summary-generate-report](/images/report/project/projects_accomplishment_summary_report_generate.png)
+![summary-generate-report](/images/report/project/fund_source_generate.png)
 
 A table list(s) of **Fund Source** is generated with the details regarding to it can be seen like in the image shown below.
 
-![summary-generated-record-list](/images/report/project/projects_accomplishment_summary_report_record_list.png)
+![summary-generated-record-list](/images/report/project/fund_source_summary_record.png)
 
 Summary gives you the overview of the **Project Accomplishment Summary Report** by **Fund Source**.
 
-![summary-record-overview](/images/report/project/projects_accomplishment_summary_report_record_overview.png)
+![summary-record-overview](/images/report/project/fund_source_summary_overview.png)
 
 ## Project Detailed Report
 
@@ -34,20 +34,20 @@ Customize which report to generate by changing the **As Of** and **Implementatio
 
 > Note: if date (value) is given in **As Of** and **Implementation Year** a list of **Fund Source** will be generated automatically. 
 
-![projects-accomplishment-report-generate](/images/report/project/projects_accomplishment_report.png)
+![projects-accomplishment-report-generate](/images/report/project/summary_report_generate.png)
 
 Here we can see list(s) of **Fund Source**, you can click any fund source to remove in the records.
 
-![accomplisment-fund-record](/images/report/project/projects_accomplishment_fund_record.png)
+![accomplisment-fund-record](/images/report/project/projects_accomplishment_fund_source.png)
 
 To remove a **Fund Source** from "to be generated" list uncheck it like show in the image below.
 
-![fund-source-remove](/images/report/project/fund_source_remove.png)
+![fund-source-remove](/images/report/project/fund_source_record_remove.png)
 
 The **PROJECTS ACCOMPLISHMENT SUMMARY** table gives you the overall record about the project reports.
 
-![accomplishment-fund-record-lists](/images/report/project/projects_accomplishment_fund_record_lists.png)
+![accomplishment-fund-record-lists](/images/report/project/projects_accomplishment_project_records.png)
 
 Summary gives you the overview of the **Projects Accomplishment Report**.
 
-![accomplishment-fund-overview](/images/report/project/projects_accomplishment_fund_overview.png)
+![accomplishment-fund-overview](/images/report/project/accomplishment_details_overview.png)
