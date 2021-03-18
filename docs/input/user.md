@@ -19,6 +19,13 @@ Users of an account has different roles. The roles that the user has determines 
     - Encode contracts accomplishments
     - View and generate reports
 
+- **Financial Account**
+
+    Financial Account has the following capabilities on the system:
+
+    - View the budget allocated on the projects and contracts
+    - 
+
 - **Accounting Officer**
 
     Accounting Officer has the following access capabilities on the system:
@@ -76,4 +83,4 @@ Go to
 
 > User Profile
 
-this click on *Update Password* link on the lower left of the page.
+then click on *Update Password* link on the lower left of the page.
