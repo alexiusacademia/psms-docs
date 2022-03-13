@@ -16,24 +16,28 @@ module.exports = {
         link: "/reporting/",
       },
       {
+        text: "FAQ",
+        link: "/faq/"
+      },
+      {
         text: "PSMS",
         link: "https://psms.ph",
       },
     ],
 
     sidebar: {
-        '/input/': [
-            '',
-            'system',
-            'project',
-            'contract',
-            'user'
-        ],
-        '/reporting/': [
-          '',
-          'contract',
-          'project'
-        ]
+      '/input/': [
+        '',
+        'system',
+        'project',
+        'contract',
+        'user'
+      ],
+      '/reporting/': [
+        '',
+        'contract',
+        'project'
+      ]
     },
 
     lastUpdated: 'Last Updated',
