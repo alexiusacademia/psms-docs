@@ -1,0 +1,9 @@
+# Old VuePress URLs (before the 2026 rewrite) -> new pages
+/input/system*       /guide/setup#systems       301
+/input/project*      /guide/projects            301
+/input/contractor*   /guide/setup#contractors   301
+/input/contract*     /guide/contracts           301
+/input/user*         /guide/team                301
+/input/*             /guide/                    301
+/reporting/*         /guide/reports             301
+/faq/                /faq                       301

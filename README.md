@@ -19,9 +19,12 @@ new screenshots at about 1520 × 780. Never use screenshots of real offices: thi
 
 ## Deploying
 
-The Netlify site is `tender-feynman-fe34ff` (docs.psms.ph). It doesn't auto-deploy from GitHub; deploy the built site with:
+The Netlify site is `tender-feynman-fe34ff` (docs.psms.ph). It doesn't auto-deploy from GitHub; deploy the built site
+from inside the output folder (run from the repo root, the CLI trips over `netlify.toml`):
 
 ```sh
 npm run docs:build
-npx netlify-cli deploy --prod --no-build --dir docs/.vitepress/dist --site 2a5b2539-43d8-4e26-91a0-a3b743d99ec8
+cd docs/.vitepress/dist && npx netlify-cli deploy --prod --no-build --dir . --site tender-feynman-fe34ff
 ```
+
+Old URLs from the previous VuePress site are redirected in `docs/public/_redirects`.
