@@ -6,6 +6,9 @@ At **[app.psms.ph](https://app.psms.ph)**. The old address, psms.ph, forwards th
 
 ## I forgot my password.
 
+You can sign in right away with **Email me a sign-in link** on the sign-in page, then set a new password from the
+menu under your name → **Change password**. Or reset it directly:
+
 Click **Forgot password?** on the [sign-in page](https://app.psms.ph/login/), enter the email on your PSMS account and
 follow the link we send you (it works for 24 hours). If the email doesn't arrive, check your spam folder.
 
@@ -56,3 +59,8 @@ Each office's data is private to it. Only contractors and the forum are shared b
 
 The subscription's renewal date has passed. Nothing has been deleted; contact the PSMS administrator to renew and
 access returns immediately. See [Subscription](/guide/office#subscription).
+
+## The sign-in link says it doesn't work anymore.
+
+Sign-in links expire after 15 minutes and work only once. They also stop working as soon as you sign in (with any
+link or your password) or change your password. Request a new link and open the **most recent** email.

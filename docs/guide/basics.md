@@ -7,6 +7,10 @@ Account Holder gave you.
 
 ![The sign-in page](/screens/sign-in.jpg)
 
+- **Sign in without a password:** click **Email me a sign-in link** and enter the email on your PSMS account. Open
+  the link in the email within 15 minutes and click **Continue**. Each link works once. If several accounts share your
+  email, you'll get one link per account, each naming its username. (PSMS administrator accounts must use their
+  password.)
 - **Forgot your password?** Click **Forgot password?** on the sign-in page and enter the email on your PSMS account.
   You'll get a link to set a new password; it works once, within 24 hours. The email names the account it's for, so if
   several accounts share your email you'll get one per account. No email on your account? Ask your office's Account
