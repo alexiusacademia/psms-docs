@@ -44,3 +44,15 @@ Cash requests for the project, with amount, date and remarks.
 A project's accomplishment is the value of work done on its contracts divided by the project's allocation. See
 [How the numbers are calculated](/calculations#projects).
 :::
+
+## Deleting a project
+
+**Account Holders** can delete a project with the trash button at the top of its page, then confirm.
+
+- The project disappears from the projects list, the project and fund source reports and custom reports, but **nothing
+  is erased**. The PSMS administrator can restore it with its expenditure sources and expenditures.
+- **Its contracts are not deleted.** They stay in the contracts list and reports. If they should go too, delete each
+  contract first (see [Deleting a contract](/guide/contracts#deleting-a-contract)).
+- Expenditure sources and expenditures deleted on their own can also be restored by the administrator. **Requested
+  cash** entries are erased for good.
+

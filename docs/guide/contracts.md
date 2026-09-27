@@ -116,3 +116,22 @@ Measurable work items such as metres of canal lining or number of turnouts. Choo
   elapsed and suspended, time extensions, % time elapsed, % accomplished, % programmed, % slippage) plus physical features.
 
 Both have an **As of** date and an **Excel** download.
+
+## Deleting a contract
+
+**Account Holders, Project Inspectors and Engineering Personnel** can delete a contract: on the contract page, open the
+**▾** menu next to **Timeline** and choose **Delete contract**, then confirm.
+
+- The contract and all its records disappear from the contracts list, the dashboard and every report, but **nothing is
+  erased**. If it was deleted by mistake, ask the PSMS administrator to restore it; it comes back with all its records.
+- Its **contract number becomes free**, so you can add a corrected contract with the same number. (A contract that was
+  deleted can't be restored while another contract uses its number.)
+- The deletion is recorded in the [activity log](/guide/team#activity-log).
+
+::: tip Deleting a single record instead
+To remove one wrong entry (an accomplishment, a billing, a suspension...), use the trash icon on its row in the tabs.
+These records are **erased for good**, except variation orders, which the administrator can restore. Accomplishment,
+billing, variation order and physical feature entries can only be deleted within [one day](/guide/roles#the-one-day-rule)
+of entering them, unless you're an Account Holder.
+:::
+
