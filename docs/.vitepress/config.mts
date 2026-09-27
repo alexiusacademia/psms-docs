@@ -35,6 +35,7 @@ export default defineConfig({
           { text: "Contracts", link: "/guide/contracts" },
           { text: "Projects and finance", link: "/guide/projects" },
           { text: "Reports", link: "/guide/reports" },
+          { text: "Custom reports", link: "/guide/custom-reports" },
         ],
       },
       {

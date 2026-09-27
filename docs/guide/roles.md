@@ -18,6 +18,7 @@ A user can hold several roles, for example Project Inspector **and** Financial E
 | | Account Holder | Project Inspector / Engineering Personnel | Financial Encoder | Viewer |
 |---|:-:|:-:|:-:|:-:|
 | View everything in the office, run reports, export Excel | ✓ | ✓ | ✓ | ✓ |
+| Build, save and share custom reports | ✓ | ✓ | ✓ | ✓ |
 | Projects: add, edit, delete | ✓ | | | |
 | Project finance: expenditure sources, expenditures, requested cash | ✓ | | ✓ | |
 | Contracts: add, edit, delete | ✓ | ✓ | | |

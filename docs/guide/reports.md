@@ -7,6 +7,11 @@ overall S-curve and project report download as **Excel**.
 
 Pick the **implementation year** and **as-of** date and click **Generate**. **Excel** downloads the same data.
 
+::: tip Need something different?
+Build your own with [custom reports](/guide/custom-reports): your choice of columns, filters, grouping and chart,
+saved and shared with your office.
+:::
+
 ![A report with its filters](/screens/report-contracts.jpg)
 
 ## Contracts

@@ -35,6 +35,11 @@ adds to the contract time. If the planned schedule itself changes, edit the **Sc
 
 The contract is (or was) suspended. The revised plan pauses while work is suspended and continues when it resumes.
 
+## Can I make a report with my own columns?
+
+Yes. Use [custom reports](/guide/custom-reports): choose the columns, filters, grouping and chart, save it, and share it
+with your office if you like.
+
 ## Why is a contract missing from a report?
 
 Contract reports leave out contracts **without a contractor** and work **by administration** (a contractor named
