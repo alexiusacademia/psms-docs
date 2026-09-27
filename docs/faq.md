@@ -6,8 +6,11 @@ At **[app.psms.ph](https://app.psms.ph)**. The old address, psms.ph, forwards th
 
 ## I forgot my password.
 
-Ask your office's Account Holder to set a new one (**Office → Users** → pencil icon), then change it yourself from
-the menu under your name → **Change password**.
+Click **Forgot password?** on the [sign-in page](https://app.psms.ph/login/), enter the email on your PSMS account and
+follow the link we send you (it works for 24 hours). If the email doesn't arrive, check your spam folder.
+
+If your account has no email, or an old one, ask your office's Account Holder to set a new password
+(**Office → Users** → pencil icon), then change it yourself from the menu under your name → **Change password**.
 
 ## Why can't I edit an accomplishment entry I made last week?
 

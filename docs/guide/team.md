@@ -12,7 +12,8 @@ sign-in. Click a username to see their [activity](#a-person-s-activity).
 ### Adding a user
 
 Click **Add user** and enter a username, name, email, position, one or more [roles](/guide/roles) and a password.
-Give the user their username and password; they can change the password after signing in.
+Give the user their username and password; they can change the password after signing in. Add their **email** too:
+it's how they can reset a forgotten password themselves.
 
 ### Editing a user
 

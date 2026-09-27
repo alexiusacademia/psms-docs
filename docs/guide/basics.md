@@ -7,7 +7,10 @@ Account Holder gave you.
 
 ![The sign-in page](/screens/sign-in.jpg)
 
-- **Forgot your password?** Ask your office's Account Holder. They can set a new one for you (see [Users](/guide/team#editing-a-user)).
+- **Forgot your password?** Click **Forgot password?** on the sign-in page and enter the email on your PSMS account.
+  You'll get a link to set a new password; it works once, within 24 hours. The email names the account it's for, so if
+  several accounts share your email you'll get one per account. No email on your account? Ask your office's Account
+  Holder to set a new password for you (see [Users](/guide/team#editing-a-user)).
 - **Change your password** any time from the menu under your name (top right) → **Change password**.
 - **New office?** Choose **Start a 30-day free trial** on the sign-in page to register your office. You'll need the
   office's address, phone, email and a contact person. You become its [Account Holder](/guide/roles) and can add your team.

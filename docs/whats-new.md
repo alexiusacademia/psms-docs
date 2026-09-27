@@ -28,6 +28,7 @@ See [Roles and permissions](/guide/roles).
 
 ## New
 
+- **Forgot password:** reset your own password by email from the sign-in page; no need to ask your Account Holder.
 - **[Office location and contact details](/guide/office#location-and-contact):** every office now records its address,
   phone, email and contact person. Account Holders of existing offices are asked to fill them in once.
 - **[Custom reports](/guide/custom-reports):** build and save your own contract and project reports with your choice of
