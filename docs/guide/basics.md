@@ -16,8 +16,9 @@ Account Holder gave you.
 
 - **Sidebar (left):** your office name and renewal date, then the main pages (**Dashboard, Contracts, Projects,
   Reports, Forum**), the **Setup** lists, and **Office** pages if you're an Account Holder. On a phone, open it with
-  the menu button (☰) at the top left.
-- **Top bar:** the search box and your name. Click your name for **My activity**, **Change password** and **Log out**.
+  the menu button (☰) at the top left. **Help & user guide** at the bottom opens this guide.
+- **Top bar:** the search box, the **?** button and your name. **?** opens the page of this guide for the screen you're
+  on. Click your name for **My activity**, **Change password**, **Help & user guide** and **Log out**.
 
 ## Search (Ctrl K / ⌘ K)
 
