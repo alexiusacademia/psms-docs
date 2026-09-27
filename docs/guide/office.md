@@ -4,6 +4,16 @@
 
 ![Office settings](/screens/settings.jpg)
 
+## Location and contact
+
+Every office has an address (street or building, city or municipality, province), an office phone, an office email and a
+contact person with their position. You enter these when registering, and can change them any time with **Edit** on the
+**Location and contact** card.
+
+Offices registered before these were required are asked to fill them in once: the next time an **Account Holder** signs
+in, PSMS opens the **Office details** form first. The rest of the team isn't interrupted and can keep working while this
+is pending.
+
 ## Subscription
 
 The top of the page shows your plan (monthly or yearly), the **next renewal date** and your office's provinces.

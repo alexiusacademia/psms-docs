@@ -28,6 +28,8 @@ See [Roles and permissions](/guide/roles).
 
 ## New
 
+- **[Office location and contact details](/guide/office#location-and-contact):** every office now records its address,
+  phone, email and contact person. Account Holders of existing offices are asked to fill them in once.
 - **[Custom reports](/guide/custom-reports):** build and save your own contract and project reports with your choice of
   columns, filters, grouping and chart, and export them to Excel or PDF.
 - A redesigned **dashboard** with status breakdown, overall S-curve and the contracts that need attention.
