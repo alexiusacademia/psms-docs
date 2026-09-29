@@ -33,6 +33,7 @@ export default defineConfig({
         items: [
           { text: "Dashboard", link: "/guide/dashboard" },
           { text: "Contracts", link: "/guide/contracts" },
+          { text: "Map", link: "/guide/map" },
           { text: "Projects and finance", link: "/guide/projects" },
           { text: "Reports", link: "/guide/reports" },
           { text: "Custom reports", link: "/guide/custom-reports" },

@@ -17,6 +17,7 @@ Below the cards:
 - **Contract status:** how many contracts are completed, ongoing (and how many of those are suspended) and not started. Click a label to see those contracts.
 - **Overall S-curve:** planned vs actual accomplishment for all of the year's contracts together, each weighted by its amount.
 - **Needs attention:** the ongoing contracts furthest behind schedule.
+- **Where attention is needed:** a [map](/guide/map) of the year's overdue, behind-schedule and suspended contracts.
 - **Recent activity:** the latest changes in your office.
 
 Every card and label is a link to the matching list or report.

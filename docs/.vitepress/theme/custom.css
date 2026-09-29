@@ -17,3 +17,6 @@
   border: 1px solid var(--vp-c-divider);
   box-shadow: 0 1px 3px rgba(15, 23, 42, 0.06);
 }
+
+/* Status dots on the Map page */
+.dot { display: inline-block; width: 11px; height: 11px; border-radius: 9999px; background: var(--dot); border: 2px solid #fff; box-shadow: 0 0 0 1px rgb(15 23 42 / 0.25); vertical-align: -1px; margin-right: 4px; }

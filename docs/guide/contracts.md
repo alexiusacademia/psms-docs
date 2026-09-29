@@ -31,6 +31,8 @@ project's page, which fills in the project).
 - **Contractor:** choose from the shared contractor list, or [add the contractor first](/guide/setup#contractors).
 - **Project in charge:** the person monitoring the contract; defaults to you.
 - **Amount**, **ABC**, **start date** (effectivity) and **duration** in calendar days; optional signing and notice dates and the contract document.
+- **Location on the map** (optional): a pin at the work site, so the contract shows in the right place on the
+  [Map](/guide/map#setting-a-contract-s-location). Without one it appears at its municipality's center.
 
 ## The contract page
 
