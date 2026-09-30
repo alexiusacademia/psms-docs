@@ -29,9 +29,28 @@ The renewal date also appears in the sidebar, and turns amber once it has passed
 - To renew, or to change your plan or provinces, contact the PSMS administrator. Renewing adds one period (30 days for
   monthly, 365 for yearly) from today or from the current renewal date, whichever is later.
 
-## Report settings
+## Report and email settings
 
 - **Revised expiry from time extensions.** *Off* (default): a contract's revised expiry is the original expiry plus the
   days it was suspended. *On*: the original expiry plus approved time extensions. Both dates are always shown on the
   contract page; this setting decides which one reports call "revised expiry".
 - **Show summary rows in reports.** Shows the summary figures above report tables and adds totals rows to Excel exports.
+- **Weekly email digest.** *On* (default): every Monday at 7:00 AM, the office's Account Holders get an email listing
+  the contracts that need attention. See [Weekly digest](#weekly-digest). Turn it off to stop these emails for everyone
+  in the office.
+
+## Weekly digest
+
+Each Monday morning, Account Holders get one email per office with:
+
+- **Became overdue this week:** contracts that passed their revised expiry in the last 7 days without being completed.
+- **Falling further behind:** ongoing contracts behind schedule whose slippage got at least 1 percentage point worse
+  since the week before.
+- **Expiring in the next 30 days:** contracts whose revised expiry is coming up.
+- **No accomplishment entered in 30+ days:** ongoing contracts nobody has updated for a month, so their figures may
+  be out of date.
+
+Each contract has a link to its page. If nothing needs attention that week, no email is sent. Like the dashboard, the
+digest leaves out work done by administration. It goes only to Account Holders who have an email address on their
+account.
+

@@ -22,7 +22,7 @@ Every contract of the year with location, contractor, project-in-charge, origina
 duration, original expiry, days suspended, expiry dates, days elapsed, % time elapsed, target, actual, slippage and
 remarks, plus one column per [physical feature](/guide/setup#physical-features) showing the quantity as of the date.
 Summary figures appear above the table and a totals row is added to the Excel file; both can be turned off in
-[office settings](/guide/office#report-settings).
+[office settings](/guide/office#report-and-email-settings).
 
 ### Behind schedule
 

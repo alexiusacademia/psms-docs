@@ -10,8 +10,9 @@ contractors, personal information or anything confidential.
 
 ## Browsing
 
-Open **Forum** in the sidebar. Posts are listed newest first, 30 per page, each with its category, author, date, number
-of replies and likes. Use the **Categories** list on the left to show one category, or **All**:
+Open **Forum** in the sidebar. Posts are listed newest first, 30 per page, each with its category, author, when it was
+posted and last replied to, and its reply and like counts. Use **Categories** on the left (along the top on a phone)
+to show one category, or **All posts**:
 
 - **Announcements:** news from the PSMS team, such as new features and maintenance.
 - **Usage Queries:** "how do I...?" questions about using PSMS.
@@ -35,8 +36,8 @@ during a suspension"* rather than *"Help"*.
 ## Replying and liking
 
 - Open a post to read the replies, oldest first, and type yours in the box at the bottom, then click **Post reply**.
-- **Like** a post to show it was helpful; click again (**Unlike**) to take it back. The number shows how many people
-  liked it.
+- Click the **heart** under a post to like it; it turns red. Click again to take your like back. The number shows how
+  many people liked it.
 
 ## Editing and deleting
 

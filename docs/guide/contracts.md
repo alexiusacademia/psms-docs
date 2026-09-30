@@ -103,7 +103,7 @@ original amount in progress, billings and reports.
 
 Approved time extensions add days to the contract time. Enter the request and approval dates and the number of days.
 They count from the approval date. Whether the **revised expiry** in reports uses suspensions or time extensions is an
-[office setting](/guide/office#report-settings).
+[office setting](/guide/office#report-and-email-settings).
 
 ### Physical features
 

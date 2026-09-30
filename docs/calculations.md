@@ -15,7 +15,7 @@ worked example: a **100-day** contract that **starts on January 1**, so day 1 is
 | **Original expiry** | start + duration − 1 (the last day of the contract) | April 10 |
 | **Expiry due to suspensions** | original expiry + days suspended | April 20, after 10 days suspended |
 | **Expiry due to time extensions** | original expiry + approved time-extension days | April 25, after a 15-day extension |
-| **Revised expiry** | one of the two above, chosen in [office settings](/guide/office#report-settings) (suspensions by default) | |
+| **Revised expiry** | one of the two above, chosen in [office settings](/guide/office#report-and-email-settings) (suspensions by default) | |
 
 A contract is **overdue** when it isn't completed and the as-of date is after its revised expiry.
 
