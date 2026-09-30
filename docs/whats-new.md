@@ -28,6 +28,8 @@ See [Roles and permissions](/guide/roles).
 
 ## New
 
+- **[Site photos](/guide/contracts#photos):** add photos to a contract or an accomplishment entry, and set the map pin
+  from where a photo was taken.
 - **[Weekly digest](/guide/office#weekly-digest):** a Monday email to Account Holders with the contracts that need attention.
 - **Refreshed forum:** a cleaner layout, like and reply counts on each post, and old posts from the previous PSMS now
   show as plain text instead of raw formatting codes.

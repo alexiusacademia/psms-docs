@@ -50,6 +50,8 @@ contract, choose **Edit contract** from the **▾** menu, and use **Location on 
 - Or **type the latitude and longitude**, or paste both at once (for example `15.2890, 120.0247` copied from Google
   Maps) into either box.
 - **Remove pin** puts the contract back at its municipality's center.
+- Or set it from a **site photo** taken at the site with location turned on: see
+  [Photos](/guide/contracts#photos).
 
 PSMS checks that the point is in the Philippines and warns you if latitude and longitude look swapped.
 

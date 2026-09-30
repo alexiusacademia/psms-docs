@@ -22,7 +22,7 @@ A user can hold several roles, for example Project Inspector **and** Financial E
 | Projects: add, edit, delete | ✓ | | | |
 | Project finance: expenditure sources, expenditures, requested cash | ✓ | | ✓ | |
 | Contracts: add, edit, delete | ✓ | ✓ | | |
-| Schedule, accomplishment, physical features | ✓ | ✓ | | |
+| Schedule, accomplishment, physical features, site photos | ✓ | ✓ | | |
 | Suspensions and resumes, variation orders, time extensions | ✓ | ✓ | | |
 | Billings (financial accomplishment) | ✓ | | ✓ | |
 | Contractors | ✓ | ✓ | | |
@@ -32,8 +32,8 @@ A user can hold several roles, for example Project Inspector **and** Financial E
 
 ## The one-day rule
 
-Accomplishment entries, billings, variation orders and physical feature quantities can be **edited or deleted for one
-day** after they are entered. After that, only an **Account Holder** can change them. This protects reported figures
+Accomplishment entries, billings, variation orders, physical feature quantities and site photos can be **edited or
+deleted for one day** after they are entered. After that, only an **Account Holder** can change them. This protects reported figures
 from being changed quietly later.
 
 ## Changing someone's roles

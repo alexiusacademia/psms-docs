@@ -111,6 +111,30 @@ Measurable work items such as metres of canal lining or number of turnouts. Choo
 **cumulative** quantity. Quantities can't go down over time. The items themselves are set up under
 [Setup → Physical features](/guide/setup#physical-features).
 
+### Photos
+
+Site photos show progress on the ground. **Account Holders, Project Inspectors and Engineering Personnel** can add
+them with **Add photos** on the **Photos** tab, or with **Add** in an accomplishment entry's *Photos* column, which
+links the photos to that entry.
+
+![A contract's Photos tab](/screens/contract-photos.jpg)
+
+- Choose several photos at once, or drop them on the page. On a phone you can take them with the camera straight
+  away. JPEG, PNG, WebP and iPhone (HEIC) photos up to **10 MB** each are accepted. Each photo uploads on its own, so
+  one bad file doesn't stop the rest.
+- Optionally link the batch to an **accomplishment entry** and add a **caption**.
+- Click a photo to see it full size. Use the arrow keys (or the arrows on screen) to move between photos, and Esc to
+  close.
+- Photos are resized to at most 2048 pixels and **everything embedded in the file is removed** (camera details and
+  so on). PSMS keeps only the date it was taken and where, if the camera recorded a location.
+- Only users of your office can open your photos.
+- Deleting a photo follows the [one-day rule](/guide/roles#the-one-day-rule): after a day, only an Account Holder can.
+
+**Setting the map pin from a photo.** If the contract has no [map pin](/guide/map) yet and a photo has a location,
+the Photos tab offers **Use photo location**. Account Holders, Project Inspectors and Engineering Personnel can also
+use the pin button on any photo with a location. Turn on location in your phone's camera settings so photos record
+where they were taken.
+
 ## Timeline and summary
 
 - **Timeline** lists each suspension with the contract days used before it, days remaining, days suspended and resume date.
