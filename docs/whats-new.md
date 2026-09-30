@@ -28,6 +28,7 @@ See [Roles and permissions](/guide/roles).
 
 ## New
 
+- **Renewal reminders:** Account Holders and the office email get an email a week and a day before the subscription is due.
 - **[Map](/guide/map):** see every contract on a map, colored by status, and pin each contract's work site.
 - **Sign in with an email link:** no password needed; PSMS emails you a one-time link.
 - **Forgot password:** reset your own password by email from the sign-in page; no need to ask your Account Holder.

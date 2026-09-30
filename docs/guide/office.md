@@ -20,6 +20,10 @@ The top of the page shows your plan (monthly or yearly), the **next renewal date
 The renewal date also appears in the sidebar, and turns amber once it has passed.
 
 - A new office gets a **30-day free trial** from registration.
+- **Reminders by email:** the office's **Account Holders** and the **office email** (from
+  [Location and contact](#location-and-contact)) get an email **7 days before** the renewal date and again **the day
+  before**, and a notice if the office becomes inactive. Reply to any of them to renew. Make sure each Account Holder
+  has an email address on their account (**Office → Users**), or they won't get these.
 - If the renewal date passes without renewal, the office becomes **inactive** the next day. Users can still sign in but see a
   notice instead of their data. **Nothing is deleted**; everything comes back as soon as the office is renewed.
 - To renew, or to change your plan or provinces, contact the PSMS administrator. Renewing adds one period (30 days for
