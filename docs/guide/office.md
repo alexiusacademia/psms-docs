@@ -47,8 +47,12 @@ Each Monday morning, Account Holders get one email per office with:
 - **Falling further behind:** ongoing contracts behind schedule whose slippage got at least 1 percentage point worse
   since the week before.
 - **Expiring in the next 30 days:** contracts whose revised expiry is coming up.
-- **No accomplishment entered in 30+ days:** ongoing contracts nobody has updated for a month, so their figures may
-  be out of date.
+- **No accomplishment entered in 30+ days:** ongoing contracts, still within their contract time, that nobody has
+  updated for a month, so their figures may be out of date.
+
+Contracts more than 90 days past their expiry that never reached 100% aren't listed one by one. Usually the work was
+finished but the final accomplishment was never recorded. The digest adds one line with how many there are and a link
+to the overdue contracts, so you can close them out.
 
 Each contract has a link to its page. If nothing needs attention that week, no email is sent. Like the dashboard, the
 digest leaves out work done by administration. It goes only to Account Holders who have an email address on their
