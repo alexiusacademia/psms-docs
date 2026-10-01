@@ -65,6 +65,34 @@ The planned cumulative % of work at key dates, the points of the original S-curv
 (for example 3% at day 30, 50% at day 165, 100% at the end). Values are 0–100, one per date. Between points PSMS draws
 straight lines.
 
+#### Importing the schedule from Excel
+
+Instead of typing each point, **Import from Excel** on the Schedule tab brings the whole S-curve in at once. Account
+Holders, Project Inspectors and Engineering Personnel can use it.
+
+1. **Download Excel file** gives you a sheet for this contract: its start date, each month end and its expiry, ready
+   for the planned cumulative % (or the current schedule, if the contract already has one). Fill it in, and add or
+   remove rows as you need.
+2. Choose the file, **or** copy the date and % columns from any Excel sheet of your own and paste them into the box.
+3. Click **Check**. PSMS lists what it read. Nothing is saved yet.
+4. If a row has a problem, it is marked with the reason. Correct it in the box and check again.
+5. Click **Import**.
+
+What PSMS accepts:
+
+- **Two columns:** the date and the planned cumulative %. In a file, they are the first two columns of the first
+  sheet; title and heading rows are skipped. Only .xlsx files can be read: save an older .xls file as .xlsx, or paste.
+- **Dates** as Excel dates, or written like `2026-05-04`, `5/4/2026` (month first) or `May 4, 2026`. A **day
+  number** works too (day 1 is the start date).
+- **Percentages** as `12.5`, `12.5%`, or cells formatted as a percentage.
+- Rows with a date but no % are left out, so you don't have to delete unused rows of the Excel file.
+- Values must be 0–100, one per date, and can't go down from one date to the next. Dates before the start date are
+  not accepted. Up to 500 rows.
+
+If the contract **already has a schedule**, you choose between **Replace the schedule** (the old values are removed)
+and **Add to the schedule** (old values stay; a date that is in both takes the imported value). Adding isn't offered
+when it would make the schedule go down somewhere. The import is recorded in the [activity log](/guide/team).
+
 ### Accomplishment (actual)
 
 Click **Record accomplishment** and enter the **cumulative** % of work done as of a date.

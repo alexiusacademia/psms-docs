@@ -28,6 +28,9 @@ See [Roles and permissions](/guide/roles).
 
 ## New
 
+- **[Import the schedule from Excel](/guide/contracts#importing-the-schedule-from-excel):** fill in an Excel sheet
+  (or paste two columns) to enter a contract's whole planned S-curve at once.
+- **Zoom the S-curve:** zoom in on a period of a contract's S-curve and drag to move along it.
 - **[Contract documents](/guide/contracts#documents):** keep the notice to proceed, orders, billings, reports and
   certificates on the contract's **Documents** tab, and attach files to a variation order, time extension or
   suspension.
