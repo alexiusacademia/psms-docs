@@ -7,7 +7,7 @@ what you can **change**. The rules are enforced by the server, so a button you c
 |---|---|---|
 | **Account Holder** | Division manager, office admin | Everything in the office, including users and settings |
 | **Project Inspector** | Engineer, project-in-charge | Contracts and their field records |
-| **Engineering Personnel** | Engineer | Same as Project Inspector |
+| **Engineering Personnel** | Engineer | Same as Project Inspector, except contract documents |
 | **Financial Encoder** | Accountant, budget officer | Project finance and contract billings |
 | **Viewer** | Planning officer, management | Nothing (read-only) |
 
@@ -24,6 +24,7 @@ A user can hold several roles, for example Project Inspector **and** Financial E
 | Contracts: add, edit, delete | ✓ | ✓ | | |
 | Schedule, accomplishment, physical features, site photos | ✓ | ✓ | | |
 | Suspensions and resumes, variation orders, time extensions | ✓ | ✓ | | |
+| Contract documents: add, edit, delete | ✓ | Project Inspector only | | |
 | Billings (financial accomplishment) | ✓ | | ✓ | |
 | Contractors | ✓ | ✓ | | |
 | Systems, fund sources, expenditure source names, physical feature list | ✓ | | | |
@@ -32,8 +33,8 @@ A user can hold several roles, for example Project Inspector **and** Financial E
 
 ## The one-day rule
 
-Accomplishment entries, billings, variation orders, physical feature quantities and site photos can be **edited or
-deleted for one day** after they are entered. After that, only an **Account Holder** can change them. This protects reported figures
+Accomplishment entries, billings, variation orders, physical feature quantities, site photos and contract documents
+can be **edited or deleted for one day** after they are entered. After that, only an **Account Holder** can change them. This protects reported figures
 from being changed quietly later.
 
 ## Changing someone's roles

@@ -135,6 +135,34 @@ the Photos tab offers **Use photo location**. Account Holders, Project Inspector
 use the pin button on any photo with a location. Turn on location in your phone's camera settings so photos record
 where they were taken.
 
+### Documents
+
+The **Documents** tab keeps the contract's paperwork with its figures: the agreement, notice of award, notice to
+proceed, program of work, orders, billings, statements of work accomplished, inspection reports and certificates.
+
+![A contract's Documents tab](/screens/contract-documents.jpg)
+
+**Everyone in the office** can open the files. **Account Holders and Project Inspectors** can add them with
+**Add documents**.
+
+- Choose several files at once, or drop them on the page. **PDF, Word, Excel, JPEG, PNG and TIFF** files up to
+  **25 MB** each are accepted. Each file uploads on its own, so one bad file doesn't stop the rest.
+- Every file gets a **title** (it starts as the file name; change it to something your office will recognise) and a
+  **document type**. The tab groups documents by type.
+- Optionally give the **date on the document** and a **note**. Files chosen together share the type, date and note,
+  so upload different types in separate batches.
+- **Belongs to** attaches the file to a variation order, time extension or suspension. The file then also shows
+  beside that record on its own tab, where **Attach** adds a file straight to it.
+- Click a title to open the file. PDFs and images open in the browser; Word and Excel files download.
+- Use the pencil to change a document's details and the bin to delete it. Both follow the
+  [one-day rule](/guide/roles#the-one-day-rule): after a day, only an Account Holder can. To replace a file, delete
+  it and upload the new one.
+- Only users of your office can open your documents. Adding and deleting them is recorded in the
+  [activity log](/guide/team).
+
+A contract document attached on the contract form in the past still shows here, under *Attached to the contract
+record*.
+
 ## Timeline and summary
 
 - **Timeline** lists each suspension with the contract days used before it, days remaining, days suspended and resume date.

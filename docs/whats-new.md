@@ -21,13 +21,16 @@ users, projects, contracts and records were carried over, and your **username an
 | Admin | **Account Holder** |
 | Project Inspector | Project Inspector |
 | Accounting Officer / Accounting Personnel | **Financial Encoder** |
-| Engineering Personnel | Engineering Personnel: now has the same rights as Project Inspector |
+| Engineering Personnel | Engineering Personnel: now has the same rights as Project Inspector, except adding contract documents |
 | Viewer | Viewer: now strictly read-only |
 
 See [Roles and permissions](/guide/roles).
 
 ## New
 
+- **[Contract documents](/guide/contracts#documents):** keep the notice to proceed, orders, billings, reports and
+  certificates on the contract's **Documents** tab, and attach files to a variation order, time extension or
+  suspension.
 - **[Site photos](/guide/contracts#photos):** add photos to a contract or an accomplishment entry, and set the map pin
   from where a photo was taken.
 - **[Weekly digest](/guide/office#weekly-digest):** a Monday email to Account Holders with the contracts that need attention.
