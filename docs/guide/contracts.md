@@ -48,6 +48,10 @@ The **S-curve** has three lines:
 - **Revised plan** (amber): the original plan paused during suspensions. This is the target PSMS uses.
 - **Actual** (blue): the accomplishment you've recorded.
 
+To look closer at a period, use the **zoom** buttons above the chart, then **drag** the chart left or right to move
+along it. Holding Ctrl (⌘ on a Mac) while turning the mouse wheel, or pinching on a trackpad, zooms around the
+pointer. **Show all**, or a double-click on the chart, brings back the whole curve.
+
 The **Dates** panel lists the start, original expiry, expiry with suspensions and with time extensions, and the
 completion date. **Summary** and **Timeline** open printable views with Excel export.
 
