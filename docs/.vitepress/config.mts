@@ -46,6 +46,7 @@ export default defineConfig({
           { text: "Users and team activity", link: "/guide/team" },
           { text: "Office settings and subscription", link: "/guide/office" },
           { text: "Forum", link: "/guide/forum" },
+          { text: "Regional accounts", link: "/guide/regional" },
         ],
       },
       {

@@ -29,6 +29,17 @@ The renewal date also appears in the sidebar, and turns amber once it has passed
 - To renew, or to change your plan or provinces, contact the PSMS administrator. Renewing adds one period (30 days for
   monthly, 365 for yearly) from today or from the current renewal date, whichever is later.
 
+## Regional access
+
+A [regional account](/guide/regional) (for example your regional office) can see your office's data, **view
+only**, once an Account Holder approves it. When one asks, the Account Holders and the office email get an email,
+and the dashboard shows the request. Review it under **Settings → Regional access**:
+
+- **Approve** shares your office's data with that account. **Decline** refuses.
+- **Remove access** stops sharing at once. You can approve again later.
+- The account can never change anything, and can't see your users, activity log or settings.
+- Each time it opens your office, it shows in your activity log.
+
 ## Report and email settings
 
 - **Revised expiry from time extensions.** *Off* (default): a contract's revised expiry is the original expiry plus the

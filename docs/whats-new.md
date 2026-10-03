@@ -28,6 +28,8 @@ See [Roles and permissions](/guide/roles).
 
 ## New
 
+- **[Regional accounts](/guide/regional):** a regional office can follow several offices' contracts in one place,
+  view only, once each office approves it under Settings.
 - **[Import the schedule from Excel](/guide/contracts#importing-the-schedule-from-excel):** fill in an Excel sheet
   (or paste two columns) to enter a contract's whole planned S-curve at once.
 - **Zoom the S-curve:** zoom in on a period of a contract's S-curve and drag to move along it.
