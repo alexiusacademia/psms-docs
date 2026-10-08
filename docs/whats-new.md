@@ -28,6 +28,9 @@ See [Roles and permissions](/guide/roles).
 
 ## New
 
+- **[Several sites per contract](/guide/map#adding-a-contract-s-sites):** give a contract one or more work sites,
+  each with a description, under **Sites** on its page. Each site shows on the maps. A contract's existing map pin
+  became a site called *Work site*; rename it to describe the place.
 - **[Regional accounts](/guide/regional):** a regional office can follow several offices' contracts in one place,
   view only, once each office approves it under Settings.
 - **[Import the schedule from Excel](/guide/contracts#importing-the-schedule-from-excel):** fill in an Excel sheet

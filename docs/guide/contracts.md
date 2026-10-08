@@ -31,8 +31,9 @@ project's page, which fills in the project).
 - **Contractor:** choose from the shared contractor list, or [add the contractor first](/guide/setup#contractors).
 - **Project in charge:** the person monitoring the contract; defaults to you.
 - **Amount**, **ABC**, **start date** (effectivity) and **duration** in calendar days; optional signing and notice dates and the contract document.
-- **Location on the map** (optional): a pin at the work site, so the contract shows in the right place on the
-  [Map](/guide/map#setting-a-contract-s-location). Without one it appears at its municipality's center.
+- **Sites on the map** are added after saving, under **Sites** on the contract's page: one or several work sites,
+  each with a description. See [Adding a contract's sites](/guide/map#adding-a-contract-s-sites). Without any, the
+  contract appears at its municipality's center.
 
 ## The contract page
 
@@ -162,10 +163,11 @@ links the photos to that entry.
 - Only users of your office can open your photos.
 - Deleting a photo follows the [one-day rule](/guide/roles#the-one-day-rule): after a day, only an Account Holder can.
 
-**Setting the map pin from a photo.** If the contract has no [map pin](/guide/map) yet and a photo has a location,
-the Photos tab offers **Use photo location**. Account Holders, Project Inspectors and Engineering Personnel can also
-use the pin button on any photo with a location. Turn on location in your phone's camera settings so photos record
-where they were taken.
+**Adding a site from a photo.** If the contract has no [sites](/guide/map#adding-a-contract-s-sites) yet and a photo
+has a location, the Photos tab offers **Add as a site**. Account Holders, Project Inspectors and Engineering Personnel
+can also use the pin button on any photo with a location. Either opens the **Add site** dialog with the photo's
+location and caption filled in; check the description and save. Turn on location in your phone's camera settings so
+photos record where they were taken.
 
 ### Documents
 
